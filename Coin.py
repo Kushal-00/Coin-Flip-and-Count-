@@ -22,7 +22,7 @@ while True:
             break
         
     else:
-        print('Just Type the Fucking ''start'' text')
+        print('Type the ''start'' text')
 
 
 
